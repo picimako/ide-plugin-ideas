@@ -8,11 +8,7 @@ Some of these ideas are simply for fun and I thought that they would be cool to 
 
 If you are looking for a wider range of ideas, I recommend JetBrains' [Plugin Ideas](https://plugins.jetbrains.com/plugin-ideas) collection, they have a wide variety of plugin requests from community members.
 
-I also marked the ideas, with a badge, that I would currently be comfortable working on under a freelance contract, if someone sees potential in those ideas.
-
 ## Acronyms & Glossary
-
-![Open to work on](https://img.shields.io/badge/Open%20to%20work%20on--blue)
 
 On multiple of my previous projects we had dedicated Acronyms & Glossary wiki pages, so if someone was not familiar with a term, they could look it up easily, or extend those shared wikis if they didn't find what they were looking for.
 
@@ -159,8 +155,6 @@ It could support different languages and emotions.
 ----
 
 ## ASCII (art) Menu System in an Editor
-
-![Open to work on](https://img.shields.io/badge/Open%20to%20work%20on--blue)
 
 I had this idea when I was playing with Hollow Knight and moving around in its menus.
 
