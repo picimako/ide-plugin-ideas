@@ -10,6 +10,10 @@ If you are looking for a wider range of ideas, I recommend JetBrains' [Plugin Id
 
 ## Acronyms & Glossary
 
+### Contextive plugin
+The plugin called Contextive ([JetBrains Marketplace](https://plugins.jetbrains.com/plugin/23928-contextive), [GitHub](https://github.com/dev-cycles/contextive/tree/v1.12.1)) does much more than the ideas described in this section.
+
+### The idea
 On multiple of my previous projects we had dedicated Acronyms & Glossary wiki pages, so if someone was not familiar with a term, they could look it up easily, or extend those shared wikis if they didn't find what they were looking for.
 
 To get this information closer to engineers who do coding, so that they wouldn't have to look up a wiki page, instead they could find out the meaning of an abbreviation or a domain specific term, the lookup could happen right inside the IDE.
